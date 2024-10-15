@@ -1,0 +1,7 @@
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\ActionDemo\bin\Debug\ActionDemo.exe.config
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\ActionDemo\bin\Debug\ActionDemo.exe
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\ActionDemo\bin\Debug\ActionDemo.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\ActionDemo\obj\Debug\ActionDemo.csproj.AssemblyReference.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\ActionDemo\obj\Debug\ActionDemo.csproj.CoreCompileInputs.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\ActionDemo\obj\Debug\ActionDemo.exe
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\ActionDemo\obj\Debug\ActionDemo.pdb

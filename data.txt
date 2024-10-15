@@ -1,0 +1,2 @@
+Your Balance increased by 400 GEL and your current balance is: 1400.59 GEL
+You withrawed 800 GEL and your current balance is: 600.59 GEL

@@ -1,0 +1,7 @@
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\BankAccountDemo\bin\Debug\BankAccountDemo.exe.config
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\BankAccountDemo\bin\Debug\BankAccountDemo.exe
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\BankAccountDemo\bin\Debug\BankAccountDemo.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\BankAccountDemo\obj\Debug\BankAccountDemo.csproj.AssemblyReference.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\BankAccountDemo\obj\Debug\BankAccountDemo.csproj.CoreCompileInputs.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\BankAccountDemo\obj\Debug\BankAccountDemo.exe
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\C#\Lecture 22. Delegates\DelegatesDemo\BankAccountDemo\obj\Debug\BankAccountDemo.pdb

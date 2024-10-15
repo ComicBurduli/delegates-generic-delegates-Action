@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 22. Delegates\\DelegatesDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7769ACB-78C1-493E-A491-F14BD34AEA94}|ActionDemo\\ActionDemo.csproj|d:\\asus data\\it step lecture course\\2024_gr39_4\\c#\\lecture 22. delegates\\delegatesdemo\\actiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7769ACB-78C1-493E-A491-F14BD34AEA94}|ActionDemo\\ActionDemo.csproj|solutionrelative:actiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3F29FD-BBA6-4524-A683-BDC6DE8951AD}|GenericDelegatesDemo\\GenericDelegatesDemo.csproj|d:\\asus data\\it step lecture course\\2024_gr39_4\\c#\\lecture 22. delegates\\delegatesdemo\\genericdelegatesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3F29FD-BBA6-4524-A683-BDC6DE8951AD}|GenericDelegatesDemo\\GenericDelegatesDemo.csproj|solutionrelative:genericdelegatesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05682016-FB37-4E17-852B-813B66D89DB5}|CalcDelegateDemo\\CalcDelegateDemo.csproj|d:\\asus data\\it step lecture course\\2024_gr39_4\\c#\\lecture 22. delegates\\delegatesdemo\\calcdelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05682016-FB37-4E17-852B-813B66D89DB5}|CalcDelegateDemo\\CalcDelegateDemo.csproj|solutionrelative:calcdelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709C9A38-895C-46D7-8568-9FC952524D0E}|BankAccountDemo\\BankAccountDemo.csproj|d:\\asus data\\it step lecture course\\2024_gr39_4\\c#\\lecture 22. delegates\\delegatesdemo\\bankaccountdemo\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709C9A38-895C-46D7-8568-9FC952524D0E}|BankAccountDemo\\BankAccountDemo.csproj|solutionrelative:bankaccountdemo\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709C9A38-895C-46D7-8568-9FC952524D0E}|BankAccountDemo\\BankAccountDemo.csproj|d:\\asus data\\it step lecture course\\2024_gr39_4\\c#\\lecture 22. delegates\\delegatesdemo\\bankaccountdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709C9A38-895C-46D7-8568-9FC952524D0E}|BankAccountDemo\\BankAccountDemo.csproj|solutionrelative:bankaccountdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE534349-487B-4504-AD19-3BCA0D469896}|DelegatesDemo\\DelegatesDemo.csproj|d:\\asus data\\it step lecture course\\2024_gr39_4\\c#\\lecture 22. delegates\\delegatesdemo\\delegatesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE534349-487B-4504-AD19-3BCA0D469896}|DelegatesDemo\\DelegatesDemo.csproj|solutionrelative:delegatesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 22. Delegates\\DelegatesDemo\\ActionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ActionDemo\\Program.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 22. Delegates\\DelegatesDemo\\ActionDemo\\Program.cs",
+              "RelativeToolTip": "ActionDemo\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:00:47.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 22. Delegates\\DelegatesDemo\\GenericDelegatesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "GenericDelegatesDemo\\Program.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 22. Delegates\\DelegatesDemo\\GenericDelegatesDemo\\Program.cs",
+              "RelativeToolTip": "GenericDelegatesDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:44:52.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 22. Delegates\\DelegatesDemo\\CalcDelegateDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CalcDelegateDemo\\Program.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 22. Delegates\\DelegatesDemo\\CalcDelegateDemo\\Program.cs",
+              "RelativeToolTip": "CalcDelegateDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:31:07.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 22. Delegates\\DelegatesDemo\\BankAccountDemo\\Account.cs",
+              "RelativeDocumentMoniker": "BankAccountDemo\\Account.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 22. Delegates\\DelegatesDemo\\BankAccountDemo\\Account.cs",
+              "RelativeToolTip": "BankAccountDemo\\Account.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:35:02.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 22. Delegates\\DelegatesDemo\\BankAccountDemo\\Program.cs",
+              "RelativeDocumentMoniker": "BankAccountDemo\\Program.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 22. Delegates\\DelegatesDemo\\BankAccountDemo\\Program.cs",
+              "RelativeToolTip": "BankAccountDemo\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:33:20.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 22. Delegates\\DelegatesDemo\\DelegatesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesDemo\\Program.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\2024_GR39_4\\C#\\Lecture 22. Delegates\\DelegatesDemo\\DelegatesDemo\\Program.cs",
+              "RelativeToolTip": "DelegatesDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:11:42.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
